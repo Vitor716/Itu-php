@@ -7,11 +7,23 @@
 
 <br>
 
-<p align="center">
-  <img alt="Home" src=".github/home.jpg" width="100%">
-</p>
 
-## Infinity Tech Us
+## 💻 Screenshots
+
+<table>
+	<tr>
+		<th width="100%">
+			Web Interface<br>
+		</th>
+	</tr>	
+	</tr>
+	<tr>
+		<td>
+		    <img alt="Home" src=".github/home.jpg" width="100%">
+		</td>
+	</tr>
+</table>
+
 
 ## 📖 About The Projeto
 The website is a way to contract a system for your business, you can select between Web and Mobile.

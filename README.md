@@ -1,9 +1,8 @@
 <div align="center">
     <img alt="logo" src=".github/logo.svg" width="200px" />
-     <p><strong>Contact us<p>
+    <br>
+    <p><strong>Contact us<p>
          
-![](https://img.shields.io/badge/Itu-php-2.0blueviolet?style=flat-square)
-<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/HigorSnt/proffy?style=flat-square">
 </div>
 
 <br>

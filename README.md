@@ -1,11 +1,15 @@
-<h1 align="center">
-    <img alt="Rocketseat" title="Rocketseat" src=".github/logo.svg" width="200px" />
-</h1>
+<div align="center">
+    <img alt="logo" src=".github/logo.svg" width="200px" />
+     <p><strong>Contact us<p>
+         
+![](https://img.shields.io/badge/Itu-php-2.0blueviolet?style=flat-square)
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/HigorSnt/proffy?style=flat-square">
+</div>
 
 <br>
 
 <p align="center">
-  <img alt="Proffy" src=".github/home.jpg" width="100%">
+  <img alt="Home" src=".github/home.jpg" width="100%">
 </p>
 
 ## Infinity Tech Us
